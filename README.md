@@ -12,7 +12,7 @@ A few important notes:
 3. Itiscommonfornewpricelevelstobecreatedduringthedayasthestockprice moves.
 4. A typical order might have 4 or more modifications applied to it before being removed.
 
-![MSFT_orderbook.png](MSFT_orderbook.png)
+![orderbook.png](orderbook.png)
 
 # Your requirements
 You should implement the OrderHandler interface according to the rules outlined below.
